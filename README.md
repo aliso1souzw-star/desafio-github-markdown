@@ -1,2 +1,2 @@
-<p align:center;> Desafio-github-markdown</p>
+<p align="center"> Desafio-github-markdown</p>
 
