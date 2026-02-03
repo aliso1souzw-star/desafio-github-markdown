@@ -26,6 +26,7 @@ section#map{
 }
 
 html,body {
+    background-color: red;
     height: 100%;
 }
 
