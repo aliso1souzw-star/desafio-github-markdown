@@ -2,4 +2,4 @@
 
 
 
-<p font-size="40px" align="center"> Este e um repositorio de estudos onde </p>
+<p  align="center"> Este e um repositorio de estudos onde estamos colocando em pratica os aprendizados ensinaods pela nossa professora Aline Antunes ;) </p>
