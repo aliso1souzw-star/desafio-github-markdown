@@ -2,4 +2,4 @@
 
 
 
-<p align="center"></p>
+<p align="center"> Este e um repositorio de estudos onde </p>
