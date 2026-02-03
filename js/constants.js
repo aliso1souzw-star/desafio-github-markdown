@@ -1,0 +1,1 @@
+var include_path = $('base').attr('base'); /*usando para excluir ou editar com js*/
