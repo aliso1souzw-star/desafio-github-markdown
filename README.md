@@ -1,7 +1,7 @@
  # Desafio-github-markdown
 
 
-<p align="center">![Gif do Gatinho](https://i.pinimg.com/originals/a3/40/4f/a3404f9ccac3638f1eb136d799618d40.gif)</p>
+<img src="https://i.pinimg.com/originals/a3/40/4f/a3404f9ccac3638f1eb136d799618d40.gif" width="100px">
 
 
 
