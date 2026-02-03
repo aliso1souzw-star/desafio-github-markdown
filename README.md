@@ -1,2 +1,2 @@
-<h1 style="color:red;"> Desafio-github-markdown</h1>
+<p align:center;> Desafio-github-markdown</h1>
 
