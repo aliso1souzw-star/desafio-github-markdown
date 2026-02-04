@@ -16,4 +16,4 @@
 
 <h3 align="center"> Sobre o projeto 📄 <h3>
 
-<p align="center">Este projeto que está no repositório é um site desenvolvido para um vendedor de motocicletas, o intuito do site é fazer uma boa demonstração dos produtos, entendimento de valores e modos de compras.</p>
+<p align="center"> 💬 Olá, tudo bem? Meu nome é Alysson, sou estudante de tecnologia e aqui neste repositório estou criando um exemplo de como criar uma conta no GitHub e entender tudo o que ele tem para oferecer usando git e outras ferramentas. </p>
