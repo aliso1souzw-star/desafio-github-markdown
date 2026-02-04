@@ -23,7 +23,7 @@
 
 ## Linguagens que o site foi desenvolvido
 
-<p align="center">
+<p >
  
  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="80px" align="center" /><br>
