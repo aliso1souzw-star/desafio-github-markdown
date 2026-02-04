@@ -9,3 +9,6 @@
 
 
 ---
+
+<p> 💬 Ola tudo bem? Meu e Alysson sou estudante de tecnologia e aqui neste repositório você verá um exemplo de como criar uma conta no GitHub, </p>
+
