@@ -25,7 +25,7 @@
 
 <p align="center">
  
- 
+<br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="80px" margin-left="100px" />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="80px" />
