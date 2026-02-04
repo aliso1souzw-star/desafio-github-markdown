@@ -14,5 +14,6 @@
 
 
 
-### Sobre o projeto
+<h3 align="center"> Sobre o projeto 📄 <h3>
 
+<p align="center">Este projeto que está no repositório é um site desenvolvido para um vendedor de motocicletas, o intuito do site é fazer uma boa demonstração dos produtos, entendimento de valores e modos de compras.<p>
