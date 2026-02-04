@@ -21,3 +21,11 @@
 <p align="center">💬 Este projeto é um site desenvolvido para um vendedor de motocicletas, o intuito do site é fazer uma boa demonstração dos produtos, entendimento de valores e modos de compras. </p>
 
 
+## Linguagens que o site foi desenvolvido
+
+<p align="center">
+ 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="100px" />
+          
+
+</p>
