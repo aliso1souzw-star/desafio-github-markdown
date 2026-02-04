@@ -10,7 +10,7 @@
 
 ---
 
-<p> 💬 Olá, tudo bem? Meu nome é Alysson, sou estudante de tecnologia e aqui neste repositório estou criando um exemplo de como criar uma conta no GitHub e entender tudo o que ele tem para oferecer usando git e outras ferramentas. </p>
+<p align="center"> 💬 Olá, tudo bem? Meu nome é Alysson, sou estudante de tecnologia e aqui neste repositório estou criando um exemplo de como criar uma conta no GitHub e entender tudo o que ele tem para oferecer usando git e outras ferramentas. </p>
 
 
 
